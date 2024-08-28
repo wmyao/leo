@@ -10,3 +10,12 @@ To run this program, run:
 ```bash
 ./run.sh
 ```
+
+-------------------------------------------------------------------
+** Use Aleo SDK
+https://www.provable.tools/
+
+1. deploy program token_af01.aleo: use Aleo Instructions file
+   - User account Test1
+   
+2. 
